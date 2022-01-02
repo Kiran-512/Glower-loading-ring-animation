@@ -46,7 +46,6 @@ span{
     left: 50%;
     width: 50%;
     height: 4px;
-    /* background-color: #fff000; */
     transform-origin: left;
     animation: animate 2s linear infinite;
     
